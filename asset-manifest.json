@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eva-loulou/static/css/main.f4d20c11.chunk.css",
-    "main.js": "/eva-loulou/static/js/main.2b98e8fa.chunk.js",
-    "main.js.map": "/eva-loulou/static/js/main.2b98e8fa.chunk.js.map",
+    "main.js": "/eva-loulou/static/js/main.a781743b.chunk.js",
+    "main.js.map": "/eva-loulou/static/js/main.a781743b.chunk.js.map",
     "runtime-main.js": "/eva-loulou/static/js/runtime-main.304f9707.js",
     "runtime-main.js.map": "/eva-loulou/static/js/runtime-main.304f9707.js.map",
     "static/js/2.71487458.chunk.js": "/eva-loulou/static/js/2.71487458.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.304f9707.js",
     "static/js/2.71487458.chunk.js",
     "static/css/main.f4d20c11.chunk.css",
-    "static/js/main.2b98e8fa.chunk.js"
+    "static/js/main.a781743b.chunk.js"
   ]
 }
